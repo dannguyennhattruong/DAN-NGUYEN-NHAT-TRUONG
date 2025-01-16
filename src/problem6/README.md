@@ -107,3 +107,6 @@ Tokens will include user metadata and a secure signature to prevent tampering.
 8. Include automated tests for all endpoints.
 
 9. Allow dynamic score weight adjustments for different actions in the future.
+
+# Application Flow
+![Application Flow](/src/problem6/flow.png "Application Flow")
